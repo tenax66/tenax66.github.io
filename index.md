@@ -10,8 +10,6 @@ layout: default
 
 ## my repositories
 
-[meteora](https://github.com/tenax66/meteora)
-
-[serendip](https://github.com/tenax66/serendip)
-
-[qrcoder](https://github.com/tenax66/qrcoder)
+- [meteora](https://github.com/tenax66/meteora)
+- [serendip](https://github.com/tenax66/serendip)
+- [qrcoder](https://github.com/tenax66/qrcoder)
