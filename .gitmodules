@@ -1,0 +1,3 @@
+[submodule "satrn"]
+	path = satrn
+	url = https://github.com/tenax66/satrn.git
