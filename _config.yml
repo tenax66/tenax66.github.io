@@ -1,39 +1,37 @@
 # Site
-name: 'Babel'
-author: 'tenax66'
-description: 'Books and miscellaneous'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: '/babel'
-avatar: 'assets/images/tenax66.jpg'
-email: 'hiyoshir+tenax66@gmail.com'
+name: "Babel"
+author: "tenax66"
+description: "Books and miscellaneous"
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
+baseurl: ""
+avatar: "assets/images/tenax66.jpg"
+email: "hiyoshir+tenax66@gmail.com"
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
- 
+
 # Defaults
 defaults:
-
   # all posts
   - scope:
       path: "_posts"
     values:
       layout: post
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -41,6 +39,13 @@ highlighter: rouge
 # Pagination
 paginate: 20
 
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]
