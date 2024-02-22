@@ -1,71 +1,74 @@
 ---
 layout: default
 ---
-<section class="bg-gray200 pt-5 pb-5">    
-    <div class="container">
-    	<div class="row justify-content-center">
-    		<div class="col-md-8">
-                
-    			<article class="card">
-                    
-                 {% if page.image %} 
-                    <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
-                {% endif %}
-                    
-    			<div class="card-body">
-                    
-    				<h1 class="display-4">
-    				    {{page.title}} 
-                    </h1>   
-                    
-                    <small class="text-muted d-block mb-3">
-                        {% unless page.metadate == "hide" %} 
-                          <i class="fa-solid fa-pen-nib"></i>{{ page.date | date: '%Y-%m-%d' }} 
-                        {% endunless %}
-                        {% if page.lastmod %}
-                          <i class="fa-solid fa-rotate-right"></i>{{ page.lastmod | date: '%Y-%m-%d' }} 
-                        {% endif %}
-                        {% if page.author %}
-                            , by {{page.author | capitalize}} 
-                        {% endif %}
-                        {% if page.credit %}
-                            , featured image by {{page.credit | capitalize}} 
-                        {% endif %}
-                    </small>                    
-                    
-                    {% if page.visit %}
-                    <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray d-block font-weight-bold">
-                        購入 <i class="fas fa-external-link-alt"></i></a>
-                    </p>
-                    {% endif %}
-                    
-                    {{ content }}
+<section class="bg-gray200 pt-5 pb-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
 
-                    {% for category in page.categories %}
-                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
-                        # {{ category | downcase }}
-                      </a>
-                    {% endfor %}
+        <article class="card">
 
-                  <!-- social buttons -->
-                  <hr>
-                  <div>
-                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                  </div>
-    			</div>  
+          {% if page.image %}
+          <img class="card-img-top mb-2" src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ page.image
+            | absolute_url }}{% endif %}" alt="{{ page.title }}">
+          {% endif %}
 
-    			</article>
-                
-                <div class="PageNavigation">
-                  {% if page.next.url %}
-                    <a class="prev" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-left"></i> </a>
-                  {% endif %}
-                  {% if page.previous.url %}
-                    <a class="next" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-right"></i></a>
-                  {% endif %}
-                </div>
-                
-    		</div>
-    	</div>
+          <div class="card-body">
+
+            <h1 class="display-4">
+              {{page.title}}
+            </h1>
+
+            <small class="text-muted d-block mb-3">
+              {% unless page.metadate == "hide" %}
+              <i class="fa-solid fa-pen-nib"></i>{{ page.date | date: '%Y-%m-%d' }}
+              {% endunless %}
+              {% if page.lastmod %}
+              <i class="fa-solid fa-rotate-right"></i>{{ page.lastmod | date: '%Y-%m-%d' }}
+              {% endif %}
+              {% if page.author %}
+              , by {{page.author | capitalize}}
+              {% endif %}
+              {% if page.credit %}
+              , featured image by {{page.credit | capitalize}}
+              {% endif %}
+            </small>
+
+            {% if page.visit %}
+            <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray d-block font-weight-bold">
+                購入 <i class="fas fa-external-link-alt"></i></a>
+            </p>
+            {% endif %}
+
+            {{ content }}
+
+            {% for category in page.categories %}
+            <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
+              # {{ category | downcase }}
+            </a>
+            {% endfor %}
+
+            <!-- social buttons -->
+            <hr>
+            <div>
+              <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+                data-show-count="false">Tweet</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+          </div>
+
+        </article>
+
+        <div class="PageNavigation">
+          {% if page.next.url %}
+          <a class="prev" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-left"></i> </a>
+          {% endif %}
+          {% if page.previous.url %}
+          <a class="next" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-right"></i></a>
+          {% endif %}
+        </div>
+
+      </div>
     </div>
+  </div>
 </section>
