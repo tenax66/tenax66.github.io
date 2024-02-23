@@ -2,7 +2,7 @@
 title: "Day Tripper（武田萌花）"
 categories: [art, travel]
 image: "/assets/images/day-tripper/day-tripper.jpg"
-credit: Hornstrandir1
+credit: <a href="https://commons.wikimedia.org/wiki/File:Scandinavia_in_June_2019_11.jpg">Hornstrandir1</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 lastmod: "2024-02-23"
 permalink: /babel/:title
 ---
