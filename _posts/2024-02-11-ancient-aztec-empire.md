@@ -4,6 +4,7 @@ categories: [history, mesoamerica]
 image: "/assets/images/ancient-aztec-empire/ancient-aztec-empire.jpg"
 visit: https://amzn.to/3SykIY1
 lastmod: "2024-02-11"
+permalink: /babel/:title
 ---
 
 > ところが、モンテスマの方は、そうではなかった。キリスト教の唯一の神こそ真の神であり、アステカの神は邪教の悪魔だ、とコルテスに言われたとき、彼は、いやアステカの神こそ真の神で、白人の神は悪魔だ、というように切りかえすことができなかった。なぜか？ 光明と闇、善と悪、神と悪魔が、決定的に相容れないものとして対立し合う、という考え方は、アステカの宗教にはなかったからである。  

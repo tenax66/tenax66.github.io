@@ -4,6 +4,7 @@ categories: [music, funk]
 image: "/assets/images/there's-a-riot-goin'-on/there's-a-riot-goin'-on.jpg"
 visit: https://amzn.to/49qZRN8
 lastmod: "2024-02-13"
+permalink: /babel/:title
 ---
 
 スライ & ザ・ファミリー・ストーンの名盤で、不穏な雰囲気がアルバム全体を覆っている。暗い曲が多いというわけではなく、むしろポップなものが多い気もするのだが、そういったものも音づくりは密室的で濃密、ぬぐいきれない憂鬱さがある。ホラー映画の序盤のような、いやなことが起きる予感だけがあるのだ。  

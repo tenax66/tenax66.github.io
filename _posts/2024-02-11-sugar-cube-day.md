@@ -5,6 +5,7 @@ image: "/assets/images/sugar-cube-day/sugar-cube-day.jpg"
 credit: "Michael Paraskevas (CC BY-SA 3.0)"
 visit: https://amzn.to/3w9ZaJY
 lastmod: "2024-02-13"
+permalink: /babel/:title
 ---
 
 伝説的な SF・幻想文学作家、山尾悠子の唯一の短歌集。新装版が出た今となってもなかなか求めにくい価格である[^1]。

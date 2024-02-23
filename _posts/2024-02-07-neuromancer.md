@@ -5,6 +5,7 @@ image: "/assets/images/neuromancer/neuromancer.jpg"
 credit: "Francisco Diez (CC BY 2.0)"
 visit: https://amzn.to/3HQNXk4
 lastmod: "2024-02-07"
+permalink: /babel/:title
 ---
 
 中学生か高校生で手にとったときは数ページでやめてしまった記憶があったけども、今になって読んでみると異常におもしろい。サイバーパンクの原点にして、基本的なアイデアがすべて出尽くしている金字塔的な作品だと思う。
