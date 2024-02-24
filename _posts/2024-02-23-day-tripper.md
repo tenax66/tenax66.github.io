@@ -7,7 +7,9 @@ lastmod: "2024-02-23"
 permalink: /babel/:title
 ---
 
+<div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ea7IIKcqdmU?si=T6RBMprT4HvQtHnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 初台の ICC でこの作品を見た。
 
