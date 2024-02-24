@@ -2,7 +2,7 @@
 title: "足摺り水族館"
 categories: [comic, panpanya]
 image: "/assets/images/ashizuri-suizokukan/ashizuri-suizokukan.jpg"
-credit: r18 INO (PACHIMO)
+credit: <a href="https://commons.wikimedia.org/wiki/File:%E8%B6%B3%E6%91%BA%E6%B5%B7%E5%BA%95%E9%A4%A8.jpg">r18 INO (PACHIMO)</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
 visit: https://amzn.to/3wm6Oky
 lastmod: "2024-02-23"
 permalink: /babel/:title

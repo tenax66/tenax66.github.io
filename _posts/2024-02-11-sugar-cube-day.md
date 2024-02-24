@@ -2,7 +2,7 @@
 title: "角砂糖の日"
 categories: [tanka, fantasy]
 image: "/assets/images/sugar-cube-day/sugar-cube-day.jpg"
-credit: "Michael Paraskevas (CC BY-SA 3.0)"
+credit: <a href="https://commons.wikimedia.org/wiki/File:Ioulis_at_Kea_(Tzia)_Island_-_panoramio_(1).jpg">Michael Paraskevas</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 visit: https://amzn.to/3w9ZaJY
 lastmod: "2024-02-13"
 permalink: /babel/:title

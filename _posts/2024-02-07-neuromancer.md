@@ -2,7 +2,7 @@
 title: "ニューロマンサー"
 categories: [sf, cyberpunk]
 image: "/assets/images/neuromancer/neuromancer.jpg"
-credit: "Francisco Diez (CC BY 2.0)"
+credit: <a href="https://commons.wikimedia.org/wiki/File:Times_Square,_New_York_City_(HDR).jpg">Francisco Diez from New Jersey, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
 visit: https://amzn.to/3HQNXk4
 lastmod: "2024-02-07"
 permalink: /babel/:title
