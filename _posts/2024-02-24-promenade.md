@@ -22,7 +22,7 @@ permalink: /babel/:title
 
 この曲は北園の SoundCloud に登録されている「[Dorothy (70's AOR Pop)](https://soundcloud.com/organalog/softpop?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)」がもとになっている。アルバムの「ソフトポップ」のあとにこちらを聴くとかなりゆるい。逆に、これを踏まえて「ソフトポップ」を聴くと息苦しいほど濃密に感じられる。
 
-イントロもよければ終わりもよく、アウトな音選びのギターソロにハイパスフィルタがかかってフェードアウトする(4:18~)。
+イントロもよければ終わりもよく、アウトな音選びのギターソロがラジオのようにフェードアウトする(4:18~)。
 
 **2\. 電話越しに**
 
