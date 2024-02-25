@@ -3,7 +3,7 @@ title: "Promenade（北園みなみ）"
 categories: [music, pops]
 image: "/assets/images/promenade/promenade.jpg"
 credit: <a href="https://commons.wikimedia.org/wiki/File:StrandD%C3%BCne.JPG">Zeppelubil / Th. Haft / Torgau</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
-visit:
+visit: https://amzn.to/4bQXsNW
 lastmod: "2024-02-24"
 permalink: /babel/:title
 ---
@@ -26,10 +26,10 @@ permalink: /babel/:title
 
 **2\. 電話越しに**
 
-なんといっても電話のプッシュ音からはじまる演出がにくい。
-情報量としては「ソフトポップ」よりはおちついている。3:08~からはじまるコーラスがしっとりしていてよい。
+なんといっても電話のプッシュ音からはじまる演出がにくい。  
+情報量としては「ソフトポップ」よりはおちついている。3:08~からはじまるコーラスがしっとりしていて好き。
 
-2:49 のあたりに「にゃん」という声が入っているのはなぜなのだろうかと思っていたが、彼がファンであるところのももち（嗣永桃子）の「ゆるしてにゃん」のサンプリングらしい。彼の SoundCloud には[こんな曲](https://soundcloud.com/organalog/aor-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)も投稿されている。
+2:49 のあたりに「にゃん」という声が入っているのはなぜなのだろうと思っていたが、北園がファンであるところのももち（嗣永桃子）の「許してにゃん」のサンプリングらしい。北園の SoundCloud には[こんな曲](https://soundcloud.com/organalog/aor-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)も投稿されている。
 
 **3\. Vitamin**
 
@@ -41,7 +41,7 @@ permalink: /babel/:title
 
 **5. ざくろ**
 
-他の曲と比べると、相対的にくせのない感じがした。アレンジの過程で余計な要素が削ぎ落とされたのでこうなったのだろうか。
+他の曲と比べると、相対的にくせのない感じがした。アレンジの過程で要素が削ぎ落とされたことでこうなったのだろうか。
 
 > 僕は音色的価値というのをいつも考えているんですけど、打ち込みでポーンと出した音色って、あまり価値がないように思えて。ひとつの音に音楽を宿らせる価値があると思うし、そういうものがたくさん揃ってきたら、音数は少なくてもいい。それが今回の『promenade』に収録した“ざくろ”ですね[^3]
 
