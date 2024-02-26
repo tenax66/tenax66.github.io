@@ -7,7 +7,7 @@ lastmod: "2024-02-13"
 permalink: /babel/:title
 ---
 
-スライ & ザ・ファミリー・ストーンの名盤で、不穏な雰囲気がアルバム全体を覆っている。暗い曲が多いというわけではなく、むしろポップなものが多い気もするのだが、そういったものも音づくりは密室的で濃密、ぬぐいきれない憂鬱さがある。ホラー映画の序盤のような、いやなことが起きる予感だけがあるのだ。  
+スライ & ザ・ファミリー・ストーンの名盤で、不穏な雰囲気がアルバム全体を覆っている。暗い曲が多いというわけではなく、むしろポップなものが多い気もするのだけども、そういったものも音づくりは密室的で濃密、ぬぐいきれない憂鬱さがある。ホラー映画の序盤のような、いやなことが起きる予感だけがあるのだ。  
 それもそのはずというべきか、このアルバムは麻薬に溺れて、バンドメンバーとの関係も悪化したスライがほとんどひとりで制作したものらしい。
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/theres-a-riot-goin-on-expanded-edition/216546634"></iframe>

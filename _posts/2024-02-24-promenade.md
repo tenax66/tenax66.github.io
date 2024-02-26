@@ -4,7 +4,7 @@ categories: [music, pops]
 image: "/assets/images/promenade/promenade.jpg"
 credit: <a href="https://commons.wikimedia.org/wiki/File:StrandD%C3%BCne.JPG">Zeppelubil / Th. Haft / Torgau</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 visit: https://amzn.to/4bQXsNW
-lastmod: "2024-02-24"
+lastmod: "2024-02-25"
 permalink: /babel/:title
 ---
 
@@ -29,7 +29,7 @@ permalink: /babel/:title
 なんといっても電話のプッシュ音からはじまる演出がにくい。  
 情報量としては「ソフトポップ」よりはおちついている。3:08~からはじまるコーラスがしっとりしていて好き。
 
-2:49 のあたりに「にゃん」という声が入っているのはなぜなのだろうと思っていたが、北園がファンであるところのももち（嗣永桃子）の「許してにゃん」のサンプリングらしい。北園の SoundCloud には[こんな曲](https://soundcloud.com/organalog/aor-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)も投稿されている。
+2:49 のあたりに「にゃん」という声が入っているのはなぜなのだろうと思っていたので調べてみたところ、北園がファンである**ももち**（嗣永桃子）の「許してにゃん」のサンプリングらしい。北園の SoundCloud には[こんな曲](https://soundcloud.com/organalog/aor-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)も投稿されている。
 
 **3\. Vitamin**
 
