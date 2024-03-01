@@ -1,12 +1,12 @@
 # Site
-name: "Babel"
-author: "tenax66"
-description: "Books and miscellaneous"
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
+name: Babel
+author: tenax66
+description: Books and miscellaneous
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
 baseurl: ""
-avatar: "assets/images/tenax66.jpg"
-email: "hiyoshir+tenax66@gmail.com"
+avatar: assets/images/tenax66.jpg
+email: hiyoshir+tenax66@gmail.com
 
 include: ["_pages"]
 permalink: /:title/
