@@ -39,9 +39,9 @@ permalink: /babel/:title
 > 地球はどのような形ですか？  
 > What is an Ocean?  
 > 海とは何ですか？  
-> How many Countries are there?
-> 国はいくつありますか？
-> How are they divided?
+> How many Countries are there?  
+> 国はいくつありますか？  
+> How are they divided?  
 > それらはどのように分割されていますか？
 
 ここで活用されているのは、これらの教科書的な問いが、普遍性、シンプルで安全な雰囲気、教育的な清潔さをもっていることだと思う。  
@@ -74,7 +74,9 @@ permalink: /babel/:title
 
 > 私はこれまでに流れ星を見たことがあるような気がします[^8]
 
-感動したと言っておいてなんだけども、これは「わたくしは〜」と読みはじめて5・5・6・7・8でいいのだろうか。口に出してみるとつっかえる感じがまたいい。
+感動したと言っておいてなんだけども、これは「わたくしは〜」と読みはじめて 5・5・6・7・8 でいいのだろうか。口に出してみるとつっかえる感じがまたいい。
+
+---
 
 [^1]: 歌人としても、YouTuber「ベテランち」としても有名である。すごい。
 [^2]: [https://www.artizon.museum/exhibition/download/98](https://www.artizon.museum/exhibition/download/98)

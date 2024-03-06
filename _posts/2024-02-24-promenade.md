@@ -49,6 +49,8 @@ permalink: /babel/:title
 
 「僕らの行き先は月に似てる」という歌詞が記憶に残った。
 
+---
+
 [^1]: [北園みなみ \| promenade（プロムナード） \| ポリスター \| POLYSTAR RECORDS OFFICIAL WEB SITE](https://www.polystar.co.jp/release/rockpopsalternative/000163)
 [^2]: 北園みなみと KORG が奇跡のコラボ! 「On the Sunny Side Up Street」期間限定フリー・ダウンロード開始
 [^3]: [インタビュー 北園みなみ 『promenade』](https://mikiki.tokyo.jp/articles/-/4261)
