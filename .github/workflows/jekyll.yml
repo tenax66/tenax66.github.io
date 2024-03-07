@@ -41,6 +41,12 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -49,6 +55,9 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Run pagefind command
+        # Run after Jekyll build to avoid _site getting overwritten
+        run: npx -y pagefind
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

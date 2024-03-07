@@ -1,0 +1,3 @@
+force_language: ja
+site: _site
+glob: "*[!s]/**/*.{html}"
