@@ -52,5 +52,5 @@ permalink: /babel/:title
 ---
 
 [^1]: [北園みなみ \| promenade（プロムナード） \| ポリスター \| POLYSTAR RECORDS OFFICIAL WEB SITE](https://www.polystar.co.jp/release/rockpopsalternative/000163)
-[^2]: 北園みなみと KORG が奇跡のコラボ! 「On the Sunny Side Up Street」期間限定フリー・ダウンロード開始
+[^2]: [北園みなみと KORG が奇跡のコラボ! 「On the Sunny Side Up Street」期間限定フリー・ダウンロード開始](https://ototoy.jp/feature/20160824)
 [^3]: [インタビュー 北園みなみ 『promenade』](https://mikiki.tokyo.jp/articles/-/4261)
