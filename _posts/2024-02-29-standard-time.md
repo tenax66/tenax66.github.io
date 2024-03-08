@@ -3,7 +3,7 @@ title: "標準時"
 categories: [tanka]
 image: "/assets/images/standard-time/standard-time.png"
 visit: https://amzn.to/4bZscMP
-lastmod: "2024-02-29"
+lastmod: "2024-03-07"
 permalink: /babel/:title
 ---
 
