@@ -3,10 +3,17 @@ title: "Diary"
 permalink: "/diary.html"
 ---
 
+#### 2024-03-19
+
+ウェルドン・アーヴィーンの最期が自殺だったことを知った。  
+「Time Capsule」冒頭の語り、"Hello. I am one of a species called Man. I live in a land known as America, in a city called New York. ..."がより切実にきこえる。
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/time-capsule/1673645476"></iframe>
+
 #### 2024-03-18
 
 ガンボスープをつくった。オクラの量が少なかったのか、いまいちとろみがつかない。  
-ケイジャン料理ではタマネギ・ピーマン・セロリのことを「[聖なる三位一体](https://ja.wikipedia.org/wiki/%E8%81%96%E3%81%AA%E3%82%8B%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93_(%E6%96%99%E7%90%86))」というらしい。
+ケイジャン料理ではタマネギ・ピーマン・セロリのことを「[聖なる三位一体](<https://ja.wikipedia.org/wiki/%E8%81%96%E3%81%AA%E3%82%8B%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93_(%E6%96%99%E7%90%86)>)」というらしい。
 
 #### 2024-03-17
 
