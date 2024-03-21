@@ -3,7 +3,7 @@ title: "寺山修司全歌集"
 categories: [tanka]
 image: "/assets/images/shuji-terayama-complete-works/shuji-terayama-complete-works.jpg"
 visit: https://amzn.to/48L4NLW
-lastmod: "2024-03-08"
+lastmod: "2024-03-21"
 permalink: /babel/:title
 ---
 
