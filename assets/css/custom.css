@@ -48,6 +48,12 @@
   height: 100%;
 }
 
+/* サイトタイトル用 */
 .babel {
   margin-top: 1rem;
+  color: #343a40;
+}
+
+.babel:hover {
+  color: #343a40;
 }
