@@ -11,6 +11,14 @@ permalink: "/about.html"
 
 本や音楽、映画について感想を書きます。
 
+#### 筆者
+
+**tenax66**
+
+![newt pin badge](/assets/images/tenax66.jpg)
+
+マウスの向こうはマンハッタン
+
 #### 店舗
 
 神保町の [PASSAGE](https://passage.allreviews.jp/) という共同書店でわたしが選んだ本を販売しています。
