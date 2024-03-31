@@ -27,7 +27,7 @@ permalink: /babel/:title
 >
 > それは二十世紀を通じての潮流でしたがまもなく離陸いたします
 
-以前、アーティゾン美術館でダムタイプの「2022: remap」という展示をみた。
+以前、アーティゾン美術館でダムタイプの展示「2022: remap」をみた。
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eaepz9JSak8?si=7ynSIQx5EkC1_oQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
