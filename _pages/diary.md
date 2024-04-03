@@ -3,6 +3,13 @@ title: "Diary"
 permalink: "/diary.html"
 ---
 
+#### 2024-04-03
+
+ジュール・バスティアン＝ルパージュという画家の描いた「ロンドンの花売り」が気にいった。
+
+<a title="Jules Bastien-Lepage
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Jules_Bastien-Lepage_-_Marchande_de_fleurs_%C3%A0_Londres_-_Paul_Allen.jpg"><img width="256" alt="Jules Bastien-Lepage - Marchande de fleurs à Londres - Paul Allen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jules_Bastien-Lepage_-_Marchande_de_fleurs_%C3%A0_Londres_-_Paul_Allen.jpg/256px-Jules_Bastien-Lepage_-_Marchande_de_fleurs_%C3%A0_Londres_-_Paul_Allen.jpg"></a>
+
 #### 2024-04-02
 
 スーツ姿のおじさんが、ショッピングモールのベンチみたいなところでアメリカンドッグにケチャップとマスタードをかけていた。  
