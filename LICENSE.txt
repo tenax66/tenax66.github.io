@@ -1,3 +1,4 @@
+Copyright (c) 2024 tenax66
 Copyright (c) 2018 WowThemes.net
 License: MIT
 
