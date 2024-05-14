@@ -19,6 +19,8 @@ permalink: "/about.html"
 
 マウスの向こうはマンハッタン
 
+ルーフバルコニーをこよなく愛する。
+
 #### 店舗
 
 神保町の [PASSAGE](https://passage.allreviews.jp/) という共同書店でわたしが選んだ本を販売しています。
