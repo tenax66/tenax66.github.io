@@ -19,7 +19,7 @@ permalink: "/about.html"
 
 マウスの向こうはマンハッタン
 
-ルーフバルコニーをこよなく愛する。
+[ルーフバルコニー]({{site.baseurl}}/roof-balcony.html)をこよなく愛する。
 
 #### 店舗
 
