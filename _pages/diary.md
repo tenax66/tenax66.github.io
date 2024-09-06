@@ -77,7 +77,7 @@ permalink: "/diary.html"
 
 #### 2024-08-23
 
-https://tanka.cc のデザインをかわいくした。Github Pages 盆栽にはプログラミングとはまたちがった楽しさがある。
+[tanka.cc](https://tanka.cc)のデザインをかわいくした。Github Pages 盆栽にはプログラミングとはまたちがった楽しさがある。
 
 #### 2024-08-22
 
